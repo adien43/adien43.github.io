@@ -7,6 +7,9 @@ div.headers {
     font-weight: bold;
     font-style: italic;
 }
+div.topic {
+    text-decoration-line: underline;
+}
 a.menu {
     color: skyblue;
 }
