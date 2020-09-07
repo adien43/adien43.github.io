@@ -10,6 +10,10 @@ div.headers {
 div.topic {
     text-decoration-line: underline;
 }
+div.p {
+    background-color: darkgrey;
+    color: black;
+}
 a.menu {
     color: skyblue;
 }
