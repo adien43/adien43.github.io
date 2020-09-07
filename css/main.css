@@ -3,6 +3,9 @@ body {
     color: white;
     width: 1000px;
 }
+div.headers {
+    font-weight: bold;
+}
 a.menu {
     color: skyblue;
 }
@@ -14,4 +17,9 @@ img {max-width: 50%;
 ol:hover {
     background-color: black;
     color: springgreen;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: darkgrey;
+    }
 }
