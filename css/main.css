@@ -5,6 +5,7 @@ body {
 }
 div.headers {
     font-weight: bold;
+    font-style: italic;
 }
 a.menu {
     color: skyblue;
