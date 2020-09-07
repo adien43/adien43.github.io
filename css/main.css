@@ -3,12 +3,17 @@ body {
     color: white;
     width: 1000px;
 }
+span.webpage {
+    text-decoration-line: overline;
+    text-decoration-color: white;
+}
 div.headers {
     font-weight: bold;
     font-style: italic;
 }
 div.topic {
     text-decoration-line: underline;
+    text-decoration-color: rgb(255, 255, 255);
 }
 div.p {
     background-color: darkgrey;
