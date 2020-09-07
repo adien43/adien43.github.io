@@ -8,3 +8,7 @@ a.menu {
 }
 img {max-width: 50%;
 }
+ol:hover {
+    background-color: black;
+    color: springgreen;
+}
