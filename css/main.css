@@ -6,12 +6,12 @@ body {
 a.menu {
     color: skyblue;
 }
+a.others {
+    color: teal;
+}
 img {max-width: 50%;
 }
 ol:hover {
     background-color: black;
     color: springgreen;
-}
-a.others {
-    color: teal;
 }
